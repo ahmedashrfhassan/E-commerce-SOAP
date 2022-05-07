@@ -1,7 +1,8 @@
 # JAX-WS SOAP E-Commerce Web Service
 ### An-E-Commerce-SOAP-built-using-JAX-WS.
 
-## 📃 Documentation
+## 📃 Documentation 
+🧼[SOAP-UI requests](https://github.com/ahmedashrfhassan/E-commerce-SOAP/blob/master/E-Commerce-soap-project-requests.xml)
 
 ## 📦 Features
 * Content negotiation (support for both XML payloads and responses)
