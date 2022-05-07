@@ -1,5 +1,5 @@
-# JAX-RS REST E-Commerce Web Service
-### An-E-Commerce-RESTful-built-using-JAX-RS.
+# JAX-WS SOAP E-Commerce Web Service
+### An-E-Commerce-SOAP-built-using-JAX-WS.
 
 ## 📃 Documentation
 
@@ -12,7 +12,6 @@
 * JAX-B
 * Maven
 * Tomcat
-* Intellij IDEA Ultimate
 * SoapUi
 
  ## 🛠 Run with Maven
